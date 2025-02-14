@@ -2,7 +2,7 @@
 My name is Komsan. I am a Computer Science student who just found out that I like to code automation scripts to reduce the time spent on repetitive tasks. I aim to study more about automation tools because I like it when I see a script running and performing an automated task,
 I also usually code in the backend part for team projects and make the team pass through very well.
 <p align="center">
-  <a href="https://sunsonsu.github.io/" target="_blank">🌐Explore My Site</a>
+  <a href="https://sunsonsu.github.io/" target="blank">🌐Explore My Site</a>
 </p>
 ## Tools I have learned and used
 ### Programing Languages:
