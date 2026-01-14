@@ -12,7 +12,7 @@ I’ve worked on several projects, which you can find in the Pinned section belo
 </div>
 
 <p align="center">
-  <a href="https://sunsonsu.github.io/" target="blank">Personal website</a>
+  <a href="https://sunsonsu.github.io/" target="blank_">Personal website</a>
 </p>
 
 <div align="center">
