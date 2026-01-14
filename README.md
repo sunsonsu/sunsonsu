@@ -1,5 +1,5 @@
 ## 🧑🏻‍💻 About Me
-Hi, I’m Komsan 👋 (you can call me son)
+### Hi, I’m Komsan 👋 (you can call me son)
 
 I’m a Computer Science student with a passion for building software that helps people—and improves my own life too.
 
