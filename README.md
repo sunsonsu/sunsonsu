@@ -7,9 +7,6 @@ I’m interested in Full-stack Development and DevOps, and I enjoy continuously 
 
 I’ve worked on several projects, which you can find in the Pinned section below.
 
-[![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkomsan-janluang%2F)](https://www.linkedin.com/in/komsan-janluang/)
-[![gmail](https://www.readmecodegen.com/api/social-icon?name=gmail&color=%23ef4444&link=komsan.works%40gmail.com)](komsan.works@gmail.com)
-
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXp1anpmNXhuenRieDh6djZtYWc0bDJyazhxbXhjNWc2YXZ5bnp4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ixlvheavdDS8L7GFCt/giphy.gif" width="300" />
 </div>
@@ -19,7 +16,7 @@ I’ve worked on several projects, which you can find in the Pinned section belo
 </p>
 
 <div align="center">
-  
+
 ### Programming Languages:
 <img width="50" src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png" alt="Go" title="Go"/>
 <img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/>
