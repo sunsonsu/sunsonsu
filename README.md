@@ -1,11 +1,14 @@
 ## 🧑🏻‍💻 About Me
-### Hi, I’m Komsan 👋 (you can call me son)
+### Hi, I’m Komsan 👋 (son)
 
 I’m a Computer Science student with a passion for building software that helps people—and improves my own life too.
 
-I’m interested in Backend Engineering, Full-stack Development, and DevOps, and I enjoy continuously learning and improving my skills in these areas.
+I’m interested in Full-stack Development and DevOps, and I enjoy continuously learning and improving my skills in these areas.
 
 I’ve worked on several projects, which you can find in the Pinned section below.
+
+[![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkomsan-janluang%2F)](https://www.linkedin.com/in/komsan-janluang/)
+[![gmail](https://www.readmecodegen.com/api/social-icon?name=gmail&color=%23ef4444&link=komsan.works%40gmail.com)](komsan.works@gmail.com)
 
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXp1anpmNXhuenRieDh6djZtYWc0bDJyazhxbXhjNWc2YXZ5bnp4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ixlvheavdDS8L7GFCt/giphy.gif" width="300" />
