@@ -1,11 +1,11 @@
 ## 🧑🏻‍💻 About Me
 ### Hi, I’m Komsan 👋 (son)
 
-I’m a Computer Science student with a passion for building software that helps people—and improves my own life too.
+I’m a Thai developer with a passion for building software that helps people—and improves my own life too.
 
-I’m interested in Full-stack Development and DevOps, and I enjoy continuously learning and improving my skills in these areas.
+Here is my latest project deployed on [SpinAName](https://spinaname.com/), a random name picker in game style, free for everyone
 
-I’ve worked on several projects, which you can find in the Pinned section below.
+I also worked on several projects, which you can find in the Pinned section below.
 
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXp1anpmNXhuenRieDh6djZtYWc0bDJyazhxbXhjNWc2YXZ5bnp4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ixlvheavdDS8L7GFCt/giphy.gif" width="300" />
